@@ -32,6 +32,10 @@ streamlit run app.py
 
 Runs on browser (localhost:8501)
 Converts spoken words into readable text
+<img width="1282" height="816" alt="Screenshot 2026-01-21 203908" src="https://github.com/user-attachments/assets/d81b9b0f-16d7-449e-bf85-b6cf3a8615bb" />
+
+
+
 
 🎯 Purpose
 
@@ -46,4 +50,5 @@ Streamlit application development
 Kalla Manikanta
 B.Tech Final Year
 Aspiring Software Engineer 🚀
+
 
