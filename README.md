@@ -5,21 +5,15 @@ A simple AI-powered Meeting Assistant built using Python that captures live audi
 ✨ Features
 
 🎙️ Live microphone audio input
-
 📝 Real-time speech-to-text conversion
-
 ⚡ Lightweight and fast execution
-
 🌐 Browser-based UI using Streamlit
 
 🛠️ Technologies Used
 
 🐍 Python
-
 📊 Streamlit
-
 🎧 PyAudio
-
 🧠 SpeechRecognition
 
 📁 Project Structure
@@ -37,19 +31,14 @@ streamlit run app.py
 📌 Output
 
 Runs on browser (localhost:8501)
-
 Converts spoken words into readable text
 
 🎯 Purpose
 
 This project was built to understand:
-
 Audio processing basics
-
 Speech recognition workflow
-
 Python project structuring
-
 Streamlit application development
 
 👤 Author
@@ -57,3 +46,4 @@ Streamlit application development
 Kalla Manikanta
 B.Tech Final Year
 Aspiring Software Engineer 🚀
+
